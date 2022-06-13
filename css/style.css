@@ -23,7 +23,7 @@
 @keyframes bird {
 
 0% {right: 100px;}
-100% {right: 1500px;}
+100% {right: 1000px;}
 
 }
 
@@ -46,7 +46,7 @@
 @keyframes bird2 {
 
 0% {right: 50px;}
-100% {right: 1550px;}
+100% {right: 100px;}
 
 }
 
@@ -65,7 +65,7 @@
  @keyframes ship {
 
  	0% { left: 100px; }
- 	100% {left: 1500px;  }
+ 	100% {left: 950px;  }
  }
 
 
